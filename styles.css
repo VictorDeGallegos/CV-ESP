@@ -34,7 +34,7 @@ body {
   width: 800px;
   height: auto;
   display: flex;
-  margin: 50px auto;
+  margin: 10px auto;
 }
 
 .resume .resume_left {
@@ -113,6 +113,7 @@ body {
 a:visited {
   color: #d6a13a;
 }
+
 a {
   color: #d6a13a;
 }
@@ -208,7 +209,7 @@ a {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 385px;
+  height: 685px;
   background: #d6a13a;
 }
 
